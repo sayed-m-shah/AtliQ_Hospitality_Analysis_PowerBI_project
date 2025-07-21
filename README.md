@@ -47,6 +47,31 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src='https://github.com/sayed-m-shah/AtliQ_Hospitality_Analysis_PowerBI_project/blob/main/resources/monthly_view.png' width="600">
 </p>
 
+
+# 🐍 Python Contribution (EDA & Pre-Analysis)
+
+Before building the Power BI dashboard, I performed **data cleaning and exploratory data analysis (EDA) in Python** to understand key patterns in the hospitality dataset.
+
+## ✅ Data Cleaning & Preparation
+- Loaded multiple datasets:
+  - `dim_date`
+  - `dim_hotels`
+  - `dim_rooms`
+  - `fact_bookings`
+  - `fact_aggregated_bookings`
+- Checked for duplicates, missing values, and data types.
+
+## ✅ Exploratory Data Analysis (EDA)
+- Analyzed **city-wise hotel distribution** to identify high-revenue regions.
+- Examined **booking platform trends** to understand customer preferences.
+- Studied **room & hotel category distributions** to determine occupancy and cancellation trends.
+
+## ✅ Visualization
+- Used **Matplotlib** to create bar charts for:
+  - **Top booking platforms**
+
+These Python insights helped design relevant KPIs and guided the **Power BI dashboard creation**.
+
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
