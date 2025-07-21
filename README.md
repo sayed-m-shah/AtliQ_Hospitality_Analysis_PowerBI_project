@@ -4,7 +4,7 @@ As part of the codebasics september month resume challenge, I have worked on thi
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmRjNTE3YWUtMDk5Zi00NTQwLTg1YzYtOGJhMzFhNzEyYTNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDBlNDczODYtMTY5NS00NzNkLWExN2QtNDAzMmVjNDUyYWRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Link to [Presentation Video]()
 
