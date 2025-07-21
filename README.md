@@ -48,11 +48,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 </p>
 
 
-# 🐍 Python Contribution (EDA & Pre-Analysis)
+## 🐍 Python Contribution (EDA & Pre-Analysis)
 
 Before building the Power BI dashboard, I performed **data cleaning and exploratory data analysis (EDA) in Python** to understand key patterns in the hospitality dataset.
 
-## ✅ Data Cleaning & Preparation
+# ✅ Data Cleaning & Preparation
 - Loaded multiple datasets:
   - `dim_date`
   - `dim_hotels`
@@ -61,12 +61,12 @@ Before building the Power BI dashboard, I performed **data cleaning and explorat
   - `fact_aggregated_bookings`
 - Checked for duplicates, missing values, and data types.
 
-## ✅ Exploratory Data Analysis (EDA)
+# ✅ Exploratory Data Analysis (EDA)
 - Analyzed **city-wise hotel distribution** to identify high-revenue regions.
 - Examined **booking platform trends** to understand customer preferences.
 - Studied **room & hotel category distributions** to determine occupancy and cancellation trends.
 
-## ✅ Visualization
+# ✅ Visualization
 - Used **Matplotlib** to create bar charts for:
   - **Top booking platforms**
 
