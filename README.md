@@ -44,7 +44,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='https://github.com/sayed-m-shah/AtliQ_Hospitality_Analysis_PowerBI_project/blob/main/resources/monthly_veiw.png' width="600">
+    <img src='https://github.com/sayed-m-shah/AtliQ_Hospitality_Analysis_PowerBI_project/blob/main/resources/monthly_view.png' width="600">
 </p>
 
 ## Learnt things from this Project 
