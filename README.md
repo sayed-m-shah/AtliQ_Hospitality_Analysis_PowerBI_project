@@ -68,6 +68,38 @@ Before building the Power BI dashboard, I performed **data cleaning and explorat
 
 These Python insights helped design relevant KPIs and guided the **Power BI dashboard creation**.
 
+# 🐍 Python Contribution (EDA & Pre-Analysis)
+
+Before building the Power BI dashboard, I performed **data cleaning** and **exploratory data analysis (EDA)** in Python to understand key patterns in the hospitality dataset.
+
+---
+
+## ✅ Data Cleaning & Preparation
+- Loaded multiple datasets:  
+  - `dim_date`  
+  - `dim_hotels`  
+  - `dim_rooms`  
+  - `fact_bookings`  
+  - `fact_aggregated_bookings`  
+- Checked for duplicates, handled **missing values** and **outliers**.  
+- Verified and corrected **data types**.
+
+---
+
+## ✅ Exploratory Data Analysis (EDA)
+- Analyzed **city-wise hotel distribution** to identify high-revenue regions.  
+- Examined **booking platform trends** to understand customer preferences.  
+- Studied **room & hotel category distributions** to determine occupancy and cancellation trends.  
+- **Data Transformation** – Added `occupancy%` columns.  
+
+---
+
+## ✅ Insights Generation – Key Questions Answered
+- Identifying **occupancy rate on weekdays vs weekends**  
+- Analyzing **revenue generated per city**  
+- Analyzing **monthly revenue trends**
+
+
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
