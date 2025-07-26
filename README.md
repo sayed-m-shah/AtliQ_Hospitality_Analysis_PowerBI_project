@@ -59,46 +59,20 @@ Before building the Power BI dashboard, I performed **data cleaning and explorat
   - `dim_rooms`
   - `fact_bookings`
   - `fact_aggregated_bookings`
-- Checked for duplicates, missing values, and data types.
+- And checked for duplicates, Data Cleaning- Handling missing values and outliers, and data types.
 
 ### ✅ Exploratory Data Analysis (EDA)
 - Analyzed **city-wise hotel distribution** to identify high-revenue regions.
 - Examined **booking platform trends** to understand customer preferences.
 - Studied **room & hotel category distributions** to determine occupancy and cancellation trends.
+- Data Transformation - Added occupancy% columns.
+- Insights generation-key questions answered
+  - Identifying occupancy rate on weekdays and weekends.
+  - Analyzing revenue generated per city.
+  - Analyzing monthly revenue trends.
+  - Assessing revenue by booking platforms.
 
 These Python insights helped design relevant KPIs and guided the **Power BI dashboard creation**.
-
-# 🐍 Python Contribution (EDA & Pre-Analysis)
-
-Before building the Power BI dashboard, I performed **data cleaning** and **exploratory data analysis (EDA)** in Python to understand key patterns in the hospitality dataset.
-
----
-
-## ✅ Data Cleaning & Preparation
-- Loaded multiple datasets:  
-  - `dim_date`  
-  - `dim_hotels`  
-  - `dim_rooms`  
-  - `fact_bookings`  
-  - `fact_aggregated_bookings`  
-- Checked for duplicates, handled **missing values** and **outliers**.  
-- Verified and corrected **data types**.
-
----
-
-## ✅ Exploratory Data Analysis (EDA)
-- Analyzed **city-wise hotel distribution** to identify high-revenue regions.  
-- Examined **booking platform trends** to understand customer preferences.  
-- Studied **room & hotel category distributions** to determine occupancy and cancellation trends.  
-- **Data Transformation** – Added `occupancy%` columns.  
-
----
-
-## ✅ Insights Generation – Key Questions Answered
-- Identifying **occupancy rate on weekdays vs weekends**  
-- Analyzing **revenue generated per city**  
-- Analyzing **monthly revenue trends**
-
 
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
