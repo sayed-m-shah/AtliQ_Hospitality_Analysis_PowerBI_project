@@ -66,10 +66,6 @@ Before building the Power BI dashboard, I performed **data cleaning and explorat
 - Examined **booking platform trends** to understand customer preferences.
 - Studied **room & hotel category distributions** to determine occupancy and cancellation trends.
 
-### ✅ Visualization
-- Used **Matplotlib** to create bar charts for:
-  - **Top booking platforms**
-
 These Python insights helped design relevant KPIs and guided the **Power BI dashboard creation**.
 
 ## Learnt things from this Project 
