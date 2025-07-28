@@ -59,7 +59,7 @@ Before building the Power BI dashboard, I performed **data cleaning and explorat
   - `dim_rooms`
   - `fact_bookings`
   - `fact_aggregated_bookings`
-- And checked for duplicates, Data Cleaning- Handling missing values and outliers, and data types.
+- And checked for duplicates, Data Cleaning- Handling missing values, outliers, and data types.
 
 ### ✅ Exploratory Data Analysis (EDA)
 - Analyzed **city-wise hotel distribution** to identify high-revenue regions.
