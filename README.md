@@ -6,7 +6,7 @@ Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-projec
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDBlNDczODYtMTY5NS00NzNkLWExN2QtNDAzMmVjNDUyYWRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Link to [Presentation Video]()
+Link to [Presentation Video](https://www.linkedin.com/feed/update/urn:li:activity:7355512524399591425/)
 
 ## Problem statement
 
